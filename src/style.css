@@ -1,0 +1,15 @@
+body {
+  font-family: 'Gill Sans', sans-serif;
+}
+
+input {
+  margin-bottom: 14px;
+}
+
+select {
+  margin-bottom: 14px;
+}
+
+button {
+  margin-top: 10px;
+}
